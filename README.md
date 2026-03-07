@@ -32,7 +32,15 @@ Here are some ideas to get you started:
 - 🎨 Learning **UI/UX Design, Web & Mobile Design**
 - 🏉 Rugby lover
 - 🚀 Building projects for my **Data Science Portfolio**
+</td>
 
+<td width="40%">
+
+<img src="https://github.com/images/modules/site/home-campaign/hero-bg.webp" width="300"/>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Languages and Tools
@@ -79,20 +87,19 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/pawara-sithumina/">
+<img src="https://img.shields.io/badge/LinkedIn-Pawara%20Sithumina-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
+<a href="https://instagram.com/p_awa_raa">
+<img src="https://img.shields.io/badge/Instagram-p__awa__raa-pink?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"/>
+<a href="mailto:pawarasithumina24@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
-
 ---
 
 ## ⚡ Fun Fact
