@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-- 🎓 First Year **Data Science Undergraduate**
+- 🎓 **Data Science Undergraduate**
 - 📊 Interested in **Data Analytics, AI & Machine Learning**
 - 💻 Currently learning **Python, R, SQL**
 - 🎨 Learning **UI/UX Design, Web & Mobile Design**
@@ -102,3 +102,6 @@ Here are some ideas to get you started:
 ---
 
 ⭐ **Thanks for visiting my profile!**
+
+
+![snake gif](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
