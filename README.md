@@ -98,3 +98,6 @@ Here are some ideas to get you started:
 ⭐ **Thanks for visiting my profile!**
 
 
+<p align="center">
+<img src="https://github.com/Pawarasithumina/Pawarasithumina/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
