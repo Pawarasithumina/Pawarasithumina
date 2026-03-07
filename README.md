@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Pawara Sithumina</h1>
-<h3 align="center">Data Science Undergraduate | Future UI/UX & Web Designer</h3>
+<h3 align="center">Data Science Undergraduate 
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Pawarasithumina&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -34,13 +34,7 @@ Here are some ideas to get you started:
 - 🚀 Building projects for my **Data Science Portfolio**
 </td>
 
-<td width="40%">
 
-<img src="https://github.com/images/modules/site/home-campaign/hero-bg.webp" width="300"/>
-
-</td>
-</tr>
-</table>
 ---
 
 ## 🛠️ Languages and Tools
