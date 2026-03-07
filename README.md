@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Pawarasithumina/Pawarasithumina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 
 - 📊 Data Analysis Projects
 - 📈 Statistics Research
-- 🌐 Web Development Projects
-- 🎨 UI/UX Design Practice
+- 🌐 Dashboard Projects
+- 🎨 Web Design Practice
 - 📚 Data Science Portfolio
 
 ---
@@ -104,4 +104,3 @@ Here are some ideas to get you started:
 ⭐ **Thanks for visiting my profile!**
 
 
-![snake gif](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
