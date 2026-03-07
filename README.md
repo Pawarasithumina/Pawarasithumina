@@ -46,6 +46,23 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=python,r,mysql,php,js,html,css,linux,vscode,git,github,figma,aws" />
 </p>
 
+
+<h3 align="center">Digital Analytics, Marketing Tech, & Creative Suite</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/GOOGLE_ANALYTICS-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/META_BUSINESS_SUITE-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/GOOGLE_SEARCH_CONSOLE-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/GOOGLE_ADSENSE-F9AB00?style=for-the-badge&logo=googleadsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/META_PIXEL-0081FB?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELEMENTOR-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADOBE_PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/ADOBE_PREMIERE_RUSH-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 ---
 
 
