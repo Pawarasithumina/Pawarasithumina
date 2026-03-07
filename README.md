@@ -97,4 +97,4 @@ Here are some ideas to get you started:
 
 ⭐ **Thanks for visiting my profile!**
 
-![Pawarasithumina's GitHub Activity](https://metrics.lecoq.io/Pawarasithumina?template=classic&base=header,activity,community,repositories,metadata&base.indepth=false&config.timezone=Asia/Colombo)
+[![Pawarasithumina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawarasithumina&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
