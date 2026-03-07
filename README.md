@@ -63,7 +63,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/ADOBE_PREMIERE_RUSH-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
   <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
----
 
 
 
