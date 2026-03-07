@@ -97,3 +97,4 @@ Here are some ideas to get you started:
 
 ⭐ **Thanks for visiting my profile!**
 
+![Pawarasithumina's GitHub Activity](https://metrics.lecoq.io/Pawarasithumina?template=classic&base=header,activity,community,repositories,metadata&base.indepth=false&config.timezone=Asia/Colombo)
