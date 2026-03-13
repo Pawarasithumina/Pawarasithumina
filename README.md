@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">Digital Analytics, Marketing Tech, & Creative Suite</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/GOOGLE_ANALYTICS-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
@@ -55,13 +56,18 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GOOGLE_SEARCH_CONSOLE-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/GOOGLE_ADSENSE-F9AB00?style=for-the-badge&logo=googleadsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/META_PIXEL-0081FB?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELEMENTOR-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADOBE_PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/ADOBE_PREMIERE_RUSH-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
   <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/WEB_SCRAPING-4CAF50?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SNAPSEED-0F9D58?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/MICROSOFT_EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
 
@@ -114,5 +120,16 @@ Here are some ideas to get you started:
 ⭐ **Thanks for visiting my profile!**
 
 
-
+<!--
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawarasithumina&theme=github-dark">
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Pawarasithumina&show_icons=true&theme=tokyonight" />
+</p>
+
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawarasithumina&layout=compact&theme=tokyonight" />
+</p> -->
