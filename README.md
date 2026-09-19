@@ -33,6 +33,75 @@ I'm a **Higher National Diploma in Data Science** student at the **National Inst
 
 ---
 
+##  Experience
+
+<table>
+  <tr>
+    <td width="30%" valign="top"><b>Feb 2026 – Present</b></td>
+    <td valign="top">
+      <b>Treasurer</b>, NIBM Data Science Club<br>
+      <img src="https://img.shields.io/badge/Treasury_Accounting-8B5CF6?style=flat-square" />
+      <img src="https://img.shields.io/badge/Finance-10B981?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top"><b>Feb 2024 – Sep 2024</b></td>
+    <td valign="top">
+      <b>Intern</b>, Sampath Bank (Full-time)<br>
+      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Leadership-F59E0B?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+---
+
+##  Education
+
+<table>
+  <tr>
+    <td width="30%" valign="top"><b>Dec 2025 – Present</b></td>
+    <td valign="top">
+      <b>Higher National Diploma in Data Science</b><br>
+      Coventry University · NIBM<br>
+      <img src="https://img.shields.io/badge/Machine_Learning-EC4899?style=flat-square" />
+      <img src="https://img.shields.io/badge/Big_Data-06B6D4?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top"><b>Sep 2024 – Sep 2025</b></td>
+    <td valign="top">
+      <b>Diploma in Data Science</b> (Data Processing and Data Processing Technology)<br>
+      Coventry University<br>
+      <img src="https://img.shields.io/badge/Data_Analysis-06B6D4?style=flat-square" />
+      <img src="https://img.shields.io/badge/Statistical_Data_Analysis-8B5CF6?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top"><b>Mar 2024 – Mar 2025</b></td>
+    <td valign="top">
+      <b>Spoken English Course</b><br>
+      British Council Sri Lanka
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top"><b>Aug 2021 – Jul 2022</b></td>
+    <td valign="top">
+      <b>Certification in Information Technology</b><br>
+      ESOFT Metro Campus
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top"><b>Mar 2010 – Jan 2024</b></td>
+    <td valign="top">
+      <b>Physical Sciences</b><br>
+      St. John's College · Deputy Head Prefect, President of the IT Society
+    </td>
+  </tr>
+</table>
+
+---
+
 ##  Featured Projects
 
 <table>
@@ -81,23 +150,6 @@ I'm a **Higher National Diploma in Data Science** student at the **National Inst
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pawarasithumina&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pawarasithumina&theme=tokyonight" alt="profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pawarasithumina&theme=tokyonight" height="170" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pawarasithumina&theme=tokyonight" height="170" alt="most commit language" />
 </p>
 
 ---
